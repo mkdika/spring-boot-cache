@@ -5,7 +5,6 @@ Example project for Caching with Spring Boot
 
 This project concist of 3 maven project, variety of cache library:
 - Spring Cache with `ConcurrentHashMap`.
-- [Google Guava Cache](https://github.com/google/guava)
 - [Caffeine Cache](https://github.com/ben-manes/caffeine)
 
 ### Pre-requirement
