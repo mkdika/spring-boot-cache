@@ -9,8 +9,7 @@
     <name>spring-boot-cache</name>
 	
     <modules>
-		<module>spring-cache</module>
-        <module>spring-guava</module>
+		<module>spring-cache</module>        
         <module>spring-caffeine</module>        
     </modules>
 </project>
