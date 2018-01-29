@@ -13,3 +13,5 @@ This project concist of 3 maven project, variety of cache library:
 - [NetBeans IDE 8.2](https://netbeans.org/) (optional)
 
 ### References
+- [Spring Cache Tutorial](http://www.baeldung.com/spring-cache-tutorial)
+- [Spring Boot Cache Sample](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-cache)
